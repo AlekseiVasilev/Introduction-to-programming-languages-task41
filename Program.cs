@@ -6,7 +6,7 @@
 
 Console.Clear();
 Console.WriteLine("\n Задача 41");
-Console.Write("Введите натуральные числа через запятую и пробел: ");
+Console.Write("Введите натуральные числа через запятую: ");
 
 int[] numbers = StringToNum(Console.ReadLine());
 

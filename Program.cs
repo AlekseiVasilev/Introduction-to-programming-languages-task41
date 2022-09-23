@@ -61,7 +61,6 @@ int[] StringToNum(string input)
     return numbers;
 }
 
-
 void PrintArray(int[] array)
 {
     Console.Write("[ ");
